@@ -13,3 +13,4 @@ This repository contains my practice and learning of Matplotlib in Python.
 7. Scatter
 8. Bars
 9. Histograms
+10. Pie Chart
